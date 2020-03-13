@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Insane.label>Insane</Insane.label>
+  <Insane.description>Insane is more difficult than Merciless.\nThe feelings of residents are not very stable. It will be bought cheaply to sell things. The incidence of epidemics is higher, the crops are also less growing, and the scale of the attack is also unreasonable.\nIf you settle on this difficulty level, you will be forced to make a series of resolutions.\n\nRecommended for:\na person who clears madness many times.</Insane.description>
+
+  <Despair.label>Despair</Despair.label>
+  <Despair.description>Despair is the difficulty that is extremely difficult to clear as its name suggests.\nThe crops are very difficult to grow, the emotions of the settlers are always next to the mental break, the research speed is very slow and the scale of the attack is very large.\n It is almost impossible to avoid death of settlers, even with all skills. \n\nRecommended for:\nA person who wants to create a story that will not end without sacrifice.</Despair.description>
+
+  <DespairPlus.label>Despair+</DespairPlus.label>
+  <DespairPlus.description>In order to survive with this difficulty, it is important not to throw away the hope of the player himself.\nIn this degree of difficulty, even colonists can be untrustworthy.\nA terrible disaster that will return all to nothing will come.\nThis difficulty is an unreasonable chunk. Are you ready?\n\nRecommended for:\nThose who want to taste unreasonable.</DespairPlus.description>
+
+</LanguageData>

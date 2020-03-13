@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Unique Event -->
+  <IncidentDef>
+    <defName>ColoniesRampage</defName>
+    <label>Colonies Rampage</label>
+    <category>ThreatSmall</category>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>MoreHigherdifficulty.IncidentWorker_CAR</workerClass>
+    <baseChance>0.5</baseChance>
+    <minRefireDays>18</minRefireDays>
+  </IncidentDef>
+
+  <IncidentDef>
+        <defName>TornadoEmergence</defName>
+        <label>Tornado Emergence</label>
+        <category>Misc</category>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>MoreHigherdifficulty.IncidentWorker_TornadoEmergence</workerClass>
+    <baseChance>0.5</baseChance>
+    <minRefireDays>30</minRefireDays>
+    </IncidentDef>
+    
+    <IncidentDef>
+        <defName>MeteorShower</defName>
+        <label>Meteor Shower</label>
+        <category>Misc</category>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>MoreHigherdifficulty.IncidentWorker_METER</workerClass>
+    <baseChance>0.5</baseChance>
+    <minRefireDays>24</minRefireDays>
+    </IncidentDef>
+    
+</Defs>

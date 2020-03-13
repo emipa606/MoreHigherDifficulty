@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Unique Event -->
+
+      <LetterLabelColoniesAnimalRampage>コロニー暴走</LetterLabelColoniesAnimalRampage>
+      <LetterColoniesAnimalRampage>遠くの地から発生した強烈なサイコドローンが、入植者たちの精神を襲いました！\nそれにより、コロニー内の数名が暴走し始めました！</LetterColoniesAnimalRampage>
+
+      <LetterLabelTornadoEmergence>竜巻襲来</LetterLabelTornadoEmergence>
+      <LetterTornadoEmergence>コロニー付近で竜巻が発生しました！この竜巻はどこへ向かうか分かりません。\n入植者たちが巻き込まれないよう、警戒を怠らないようにしましょう。</LetterTornadoEmergence>
+      
+      <LetterLabelMeterLight>流星群</LetterLabelMeterLight>
+      <LetterMeterLight>突如、大量の流れ星が地表に落ちてきました！\nそのうちの一つが入植者めがけて落下してきています！</LetterMeterLight>
+
+</LanguageData>

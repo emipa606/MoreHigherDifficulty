@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Unique Event -->
+
+  <ColoniesRampage.label>コロニー暴走</ColoniesRampage.label>
+  <TornadoEmergence.label>竜巻襲来</TornadoEmergence.label>
+  <MeteorShower.label>流星群</MeteorShower.label>
+
+</LanguageData>

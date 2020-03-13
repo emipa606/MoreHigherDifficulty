@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<DifficultyDef>
+		<defName>Insane</defName>
+		<label>Insane</label>
+		<description>Insane is more difficult than Merciless.\nThe feelings of residents are not very stable. It will be bought cheaply to sell things. The incidence of epidemics is higher, the crops are also less growing, and the scale of the attack is also unreasonable.\nIf you settle on this difficulty level, you will be forced to make a series of resolutions.\n\nRecommended for:\na person who clears madness many times.</description>
+		<drawColor>(0.8,0.1,0.4)</drawColor>
+		<difficulty>6</difficulty>
+		<threatScale>3.0</threatScale>
+		<adaptationEffectFactor>0.4</adaptationEffectFactor>
+		<colonistMoodOffset>-20</colonistMoodOffset>
+		<tradePriceFactorLoss>0.15</tradePriceFactorLoss>
+		<cropYieldFactor>0.7</cropYieldFactor>
+		<mineYieldFactor>0.7</mineYieldFactor>
+		<researchSpeedFactor>0.8</researchSpeedFactor>
+		<diseaseIntervalFactor>0.8</diseaseIntervalFactor>
+		<enemyReproductionRateFactor>1.2</enemyReproductionRateFactor>
+		<playerPawnInfectionChanceFactor>1.1</playerPawnInfectionChanceFactor>
+		<deepDrillInfestationChanceFactor>1.3</deepDrillInfestationChanceFactor>
+		<foodPoisonChanceFactor>1.3</foodPoisonChanceFactor>
+		<maintenanceCostFactor>1.25</maintenanceCostFactor>
+		<enemyDeathOnDownedChanceFactor>1.25</enemyDeathOnDownedChanceFactor>
+		<adaptationGrowthRateFactorOverZero>1</adaptationGrowthRateFactorOverZero>
+		<raidBeaconThreatCountFactor>1.3</raidBeaconThreatCountFactor>
+	</DifficultyDef>
+	
+	<DifficultyDef>
+		<defName>Despair</defName>
+		<label>Despair</label>
+		<description>Despair is the difficulty that is extremely difficult to clear as its name suggests.\nThe crops are very difficult to grow, the emotions of the settlers are always next to the mental break, the research speed is very slow and the scale of the attack is very large.\n It is almost impossible to avoid death of settlers, even with all skills. \n\nRecommended for:\nA person who wants to create a story that will not end without sacrifice.</description>
+		<drawColor>(0.6,0.1,0.4)</drawColor>
+		<difficulty>7</difficulty>
+		<threatScale>5.0</threatScale>
+		<adaptationEffectFactor>0.2</adaptationEffectFactor>
+		<colonistMoodOffset>-30</colonistMoodOffset>
+		<tradePriceFactorLoss>0.1</tradePriceFactorLoss>
+		<cropYieldFactor>0.5</cropYieldFactor>
+		<mineYieldFactor>0.5</mineYieldFactor>
+		<researchSpeedFactor>0.5</researchSpeedFactor>
+		<diseaseIntervalFactor>0.75</diseaseIntervalFactor>
+		<enemyReproductionRateFactor>1.5</enemyReproductionRateFactor>
+		<playerPawnInfectionChanceFactor>1.5</playerPawnInfectionChanceFactor>
+		<deepDrillInfestationChanceFactor>1.5</deepDrillInfestationChanceFactor>
+		<foodPoisonChanceFactor>1.5</foodPoisonChanceFactor>
+		<maintenanceCostFactor>1.5</maintenanceCostFactor>
+		<enemyDeathOnDownedChanceFactor>1.5</enemyDeathOnDownedChanceFactor>
+		<adaptationGrowthRateFactorOverZero>1.5</adaptationGrowthRateFactorOverZero>
+		<raidBeaconThreatCountFactor>1.5</raidBeaconThreatCountFactor>
+	</DifficultyDef>
+	
+	<DifficultyDef>
+		<defName>DespairPlus</defName>
+		<label>Despair+</label>
+		<description>In order to survive with this difficulty, it is important not to throw away the hope of the player himself.\nIn this degree of difficulty, even colonists can be untrustworthy.\nA terrible disaster that will return all to nothing will come.\nThis difficulty is an unreasonable chunk. Are you ready?\n\nRecommended for:\nThose who want to taste unreasonable.</description>
+		<drawColor>(0.4,0.0,0.3)</drawColor>
+		<difficulty>8</difficulty>
+		<threatScale>5.5</threatScale>
+		<adaptationEffectFactor>0.2</adaptationEffectFactor>
+		<colonistMoodOffset>-35</colonistMoodOffset>
+		<tradePriceFactorLoss>0.05</tradePriceFactorLoss>
+		<cropYieldFactor>0.45</cropYieldFactor>
+		<mineYieldFactor>0.5</mineYieldFactor>
+		<researchSpeedFactor>0.3</researchSpeedFactor>
+		<diseaseIntervalFactor>0.75</diseaseIntervalFactor>
+		<enemyReproductionRateFactor>1.5</enemyReproductionRateFactor>
+		<playerPawnInfectionChanceFactor>1.5</playerPawnInfectionChanceFactor>
+		<deepDrillInfestationChanceFactor>1.5</deepDrillInfestationChanceFactor>
+		<foodPoisonChanceFactor>3</foodPoisonChanceFactor>
+		<maintenanceCostFactor>1.5</maintenanceCostFactor>
+		<enemyDeathOnDownedChanceFactor>1.75</enemyDeathOnDownedChanceFactor>
+		<adaptationGrowthRateFactorOverZero>1.5</adaptationGrowthRateFactorOverZero>
+		<raidBeaconThreatCountFactor>1.5</raidBeaconThreatCountFactor>
+	</DifficultyDef>
+	
+</Defs>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Unique Event -->
+
+      <LetterLabelColoniesAnimalRampage>Colonies Rampage</LetterLabelColoniesAnimalRampage>
+      <LetterColoniesAnimalRampage>An intense psycho drone that struck from a distant place hit the spirit of the settlers!\n As a result, several people in the colony began to rampage up!</LetterColoniesAnimalRampage>
+
+      <LetterLabelTornadoEmergence>Tornado Emergence</LetterLabelTornadoEmergence>
+      <LetterTornadoEmergence>A tornado occurred near the colony!\nLet's keep alarmed so that settlers will not get caught.</LetterTornadoEmergence>
+      
+      <LetterLabelMeterLight>Meter Light</LetterLabelMeterLight>
+      <LetterMeterLight>Suddenly, a lot of shooting stars fell on the surface!\nOne of them is falling for the settlers!</LetterMeterLight>
+
+</LanguageData>

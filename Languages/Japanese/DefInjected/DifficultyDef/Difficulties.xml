@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Insane.label>狂気(Insane)</Insane.label>
+  <Insane.description>過激よりも一段階難しい難易度です。\n入植者の心情は常に不安定で、商人に売るアイテムも安い価格で買いたたかれてしまいます。襲撃の規模もより理不尽になり、作物も育ちにくいです。\nこの難易度をクリアしたいのなら、あなたは覚悟の連続を強いられるでしょう。\n\nお勧めしたい人:過激を何度もクリアした人</Insane.description>
+
+  <Despair.label>絶望(Despair)</Despair.label>
+  <Despair.description>その名の通り、クリアするのは極めて困難な難易度です。\n食物はより育ちにくく、入植者の心情は常にメンタルブレイクと隣り合わせ。研究速度もとても遅く、襲撃の規模が極めて大きいです。\nあらゆるスキルを駆使しても、入植者の死を避けるのは困難でしょう。\n\nお勧めしたい人:犠牲無しでは終わらないストーリーを楽しみたい人</Despair.description>
+
+  <DespairPlus.label>更なる絶望(Despair+)</DespairPlus.label>
+  <DespairPlus.description>この難易度で生き延びるためには、プレイヤー自身の希望を捨てないことが大切です。\nこの難易度では、入植者すら信用できない者になりえます。全てを無に帰す恐ろしい災害もやって来ます。\nこの難易度は理不尽の塊です。覚悟はできていますか？\n\nお勧めしたい人:理不尽を味わいたい人</DespairPlus.description>
+
+
+</LanguageData>
